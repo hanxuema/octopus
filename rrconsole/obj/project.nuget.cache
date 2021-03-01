@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T7BsfKd12xSE5kOECi8XyP6R3ZoBrIIJG332fsuM2QpMadJJl7JeF9GhU14wRznDBPz2MtAZLp9f3+YzNdilUw==",
+  "success": true,
+  "projectFilePath": "/Users/xavier/Projects/releaseretention/rrconsole/rrconsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/xavier/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

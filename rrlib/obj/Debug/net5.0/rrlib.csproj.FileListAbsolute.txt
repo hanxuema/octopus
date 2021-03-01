@@ -1,0 +1,12 @@
+/Users/xavier/Projects/releaseretention/rrlib/bin/Debug/net5.0/rrlib.deps.json
+/Users/xavier/Projects/releaseretention/rrlib/bin/Debug/net5.0/rrlib.dll
+/Users/xavier/Projects/releaseretention/rrlib/bin/Debug/net5.0/ref/rrlib.dll
+/Users/xavier/Projects/releaseretention/rrlib/bin/Debug/net5.0/rrlib.pdb
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/rrlib.csprojAssemblyReference.cache
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/rrlib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/rrlib.AssemblyInfoInputs.cache
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/rrlib.AssemblyInfo.cs
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/rrlib.csproj.CoreCompileInputs.cache
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/rrlib.dll
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/ref/rrlib.dll
+/Users/xavier/Projects/releaseretention/rrlib/obj/Debug/net5.0/rrlib.pdb
