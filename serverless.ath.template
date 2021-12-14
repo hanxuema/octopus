@@ -1,0 +1,40 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Transform": "AWS::Serverless-2016-10-31",
+  "Description": "Cloud formation ",
+  "Parameters": {
+     "Env": {
+      "Type": "String",
+      "Default" : "ATH",
+      "Description": "environment"
+    },
+     "MemorySize": {
+      "Type":  "Number",
+      "Default" : "300",
+      "Description": "Memory Size of lambda"
+    }
+  },
+  "Conditions": {},
+  "Resources": {
+    "ABCFunction": {
+      "Type": "AWS::Serverless::Function",
+      "Properties": {
+        "FunctionName" : {"Fn::Sub": "${Env}-APILambdaFunction"},
+        "Handler": "AWSServerless1::AWSServerless1.LambdaEntryPoint::FunctionHandlerAsync",
+        "Runtime": "dotnetcore3.1",
+        "CodeUri": "",
+        "MemorySize": {"Fn::Sub": "${MemorySize}"},
+        "Timeout": 30,
+        "Role": null,
+        "Policies": [
+          "AWSLambda_FullAccess"
+        ],
+        "Events": {
+        }
+      }
+    }
+  },
+  "Outputs": {
+ 
+  }
+}
